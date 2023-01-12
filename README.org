@@ -36,7 +36,7 @@ all-the-icons-wicon      ->    all-the-icons-nerd-weather
 [[https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/ivy.png?raw=true]]
 
 [[https://github.com/jtbm37/all-the-icons-dired][all-the-icons-dired]]
-#+caption: all-the-icons-dired screenshot
+#+CAPTION: all-the-icons-dired screenshot
 https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/dired.png?raw=true
 
 [[https://github.com/jaypei/emacs-neotree][neotree]]
