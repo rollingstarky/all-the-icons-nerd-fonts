@@ -13,6 +13,7 @@ Furthermore this package defines a helper function ~all-the-icons-nerd-fonts-pre
 
 with all-the-icons installed, you can use ~(all-the-icons-icon-for-file "foo.py")~ to show an icon for a Python source file, actually it invokes ~(all-the-icons-alltheicon "python")~ in the backend.
 But if you have added ~(all-the-icons-nerd-fonts-prefer)~ in your init file, the function invoked would be ~(all-the-icons-nerd-dev "python")~.
+
 Please note that kind of replacing only applied for functions such as ~(all-the-icons-icon-for-file)~, ~(all-the-icons-icon-for-mode)~. Some themes using the underlying functions like ~(all-the-icons-octicon)~ directly, for that kind of situation, you may need to replace it to ~(all-the-icons-nerd-oct)~ or any other nerd font functions by hand in the source ~.el~ file.
 
 #+begin_src text
@@ -35,7 +36,7 @@ all-the-icons-wicon      ->    all-the-icons-nerd-weather
 [[https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/ivy.png?raw=true]]
 
 [[https://github.com/jtbm37/all-the-icons-dired][all-the-icons-dired]]
-#+CPATION: all-the-icons-dired screenshot
+#+caption: all-the-icons-dired screenshot
 https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/dired.png?raw=true
 
 [[https://github.com/jaypei/emacs-neotree][neotree]]
