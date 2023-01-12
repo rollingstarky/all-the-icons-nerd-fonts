@@ -1,6 +1,13 @@
 #+TITLE: all-the-icons-nerd-fonts
 #+AUTHOR: Mohsin Kaleem
 
+* Table of Contents                                                     :TOC:
+- [[#demo][Demo]]
+- [[#installation][Installation]]
+- [[#usage][Usage]]
+- [[#config][Config]]
+
+
 A bridge between [[https://github.com/domtronn/all-the-icons.el][all-the-icons]] and [[https://github.com/twlz0ne/nerd-fonts.el][nerd-fonts]].
 
 I installed Emacs on my Ubuntu Server as my dev environment, without GUI support. Connecting it from Windows Terminal on my laptop.
@@ -24,20 +31,10 @@ all-the-icons-wicon      ->    all-the-icons-nerd-weather
 #+end_src
 
 
-* Table of Contents                                                     :TOC:
-- [[#demo][Demo]]
-- [[#installation][Installation]]
-- [[#usage][Usage]]
-- [[#config][Config]]
-
 * Demo
 [[https://github.com/asok/all-the-icons-ivy][all-the-icons-ivy]]
 #+CAPTION: all-the-icons-ivy screenshot
 [[https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/ivy.png?raw=true]]
-
-[[https://github.com/jtbm37/all-the-icons-dired][all-the-icons-dired]]
-#+CAPTION: all-the-icons-dired screenshot
-https://github.com/rollingstarky/all-the-icons-nerd-fonts/blob/master/screenshots/dired.png?raw=true
 
 [[https://github.com/jaypei/emacs-neotree][neotree]]
 #+CAPTION: neotree screenshot
